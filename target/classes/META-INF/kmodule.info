@@ -1,0 +1,11 @@
+<org.drools.core.rule.KieModuleMetaInfo>
+  <typeMetaInfos/>
+  <rulesByPackage>
+    <entry>
+      <string>defaultpkg</string>
+      <set>
+        <string>reproduce</string>
+      </set>
+    </entry>
+  </rulesByPackage>
+</org.drools.core.rule.KieModuleMetaInfo>

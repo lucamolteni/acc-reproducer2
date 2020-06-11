@@ -1,0 +1,12 @@
+import java.time.LocalDate;
+import java.util.*;
+
+import com.healthpartners.api.gsusetup.func.*;
+import accumulate EffectiveDateAccumulateFunction effectiveDateRange;
+
+rule "reproduce"
+when
+	accumulate ($o: Object(), $effectiveDates : effectiveDateRange( null ) )
+then
+	System.out.println("Should run");
+end
