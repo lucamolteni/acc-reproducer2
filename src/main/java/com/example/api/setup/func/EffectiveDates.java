@@ -7,9 +7,6 @@ import java.io.ObjectOutput;
 import java.util.ArrayList;
 import java.util.List;
 
-import lombok.Data;
-
-@Data
 public class EffectiveDates implements Externalizable {
 
 	private List<EffectiveDateRange> effectiveDateRanges = new ArrayList<>();
