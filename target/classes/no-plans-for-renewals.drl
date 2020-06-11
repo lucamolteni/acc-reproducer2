@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.util.*;
 
-import com.healthpartners.api.gsusetup.func.*;
+import com.example.api.setup.func.*;
 import accumulate EffectiveDateAccumulateFunction effectiveDateRange;
 
 rule "reproduce"

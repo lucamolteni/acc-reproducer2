@@ -1,4 +1,4 @@
-package com.healthpartners.api.gsusetup.func;
+package com.example.api.setup.func;
 
 import java.time.LocalDate;
 

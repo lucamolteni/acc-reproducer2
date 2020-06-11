@@ -1,6 +1,6 @@
 <kmodule xmlns="http://www.drools.org/xsd/kmodule"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<kbase name="DefaultKBase" default="true" packages="*, com.healthpartners.api.gsusetup.func">
+<kbase name="DefaultKBase" default="true" packages="*, com.example.api.setup.func">
 <ksession name="GsuWorkflowKieSession" type="stateful" default="true" clockType="realtime"/>
 </kbase>
 </kmodule>
